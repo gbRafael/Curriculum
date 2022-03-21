@@ -9,10 +9,9 @@
   }
   
   body {
-    background: #313131;
+    background: #202124;
     font-size: 14px;
     line-height: 22px;
-    color: #555555;
   }
   
   .bold {
@@ -167,7 +166,8 @@
     margin-bottom: 3px;
 
   }
-  .resume .resume_right {
+  
+  .resume .resume_right{
     width: 520px;
     background: rgb(242, 242, 242);
     padding: 25px;
@@ -292,4 +292,3 @@
 .resume .resume_right .resume_hobby ul p.texto4{ 
   left: 10px;
  }
-
